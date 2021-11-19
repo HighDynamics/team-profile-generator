@@ -14,9 +14,11 @@ Quickly generate a webpage with your team's info for streamlined access
 
 3. [Testing](#Testing)
 
-4. [Questions](#Questions)
+4. [Contribute](#Contribute)
 
-5. [License](#License)
+5. [Questions](#Questions)
+
+6. [License](#License)
 
 ## Installation
 
@@ -29,6 +31,10 @@ Run `node index` and fill out the prompts
 ## Testing
 
     npm run test
+
+## Contribute
+
+Fork the repo and make a pull request against the repository!
 
 ## Questions
 
