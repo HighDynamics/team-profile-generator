@@ -6,6 +6,7 @@ const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern');
 
+// following functions take an object and returns object data in the form of a class object
 function createManager(manager) {
   const { name, id, email, officeNumber } = manager;
   return new Manager(name, id, email, officeNumber);

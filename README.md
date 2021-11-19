@@ -26,7 +26,8 @@ Quickly generate a webpage with your team's info for streamlined access
 
 ## Usage
 
-Run `node index` and fill out the prompts
+Run `node index` and fill out the prompts  
+Walkthrough video: [Team Profile Generator](https://drive.google.com/file/d/1HFBA6lB1vUpWQWsAXM_cmMK4_hfgPUrq/view?usp=sharing)
 
 ## Testing
 
